@@ -1,16 +1,14 @@
-# pdf_scanner
+# PDF Scanner
 
-A new Flutter project.
+PDF Scanner, mobil cihazlarda belgeleri taramak, PDF olarak kaydetmek ve paylaşmak için geliştirilmiş bir Flutter uygulamasıdır. Uygulama, kameranı kullanarak belgeleri yakalar ve işler.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- **Belge Taraması:** Cihazın kamerasını kullanarak belgeleri yakalayabilirsin.
+- **PDF Dönüştürme:** Taranan belgeleri PDF dosyası olarak kaydedebilirsin.
+- **Paylaşma:** Oluşturulan PDF dosyalarını kolayca paylaşabilirsin.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ---
+  
